@@ -29,3 +29,5 @@ Minimum 1 day. Maximum 90 days unless changed from the repository settings page.
 
     archive: # optional, default is true
           
+- name: Cache
+  uses: actions/cache@v5.0.5
